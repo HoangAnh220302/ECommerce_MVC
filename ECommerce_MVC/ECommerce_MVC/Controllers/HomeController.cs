@@ -22,6 +22,11 @@ namespace ECommerce_MVC.Controllers
         {
             return View();
         }
+        [Route("/404")]
+        public IActionResult PageNotFound()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
