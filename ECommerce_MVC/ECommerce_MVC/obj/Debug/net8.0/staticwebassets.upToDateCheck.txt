@@ -270,6 +270,8 @@ wwwroot\Hinh\icons\Zoom.png
 wwwroot\Hinh\KhachHang\android_300200.png
 wwwroot\Hinh\KhachHang\Author.jpg
 wwwroot\Hinh\KhachHang\man.jpg
+wwwroot\Hinh\KhachHang\Neuvi_1.jpg
+wwwroot\Hinh\KhachHang\Neuvi_4.jpg
 wwwroot\Hinh\KhachHang\Penguins.jpg
 wwwroot\Hinh\KhachHang\woman.jpg
 wwwroot\Hinh\Loai\Accept.png

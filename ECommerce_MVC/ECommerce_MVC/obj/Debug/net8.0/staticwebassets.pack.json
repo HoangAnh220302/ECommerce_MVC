@@ -341,6 +341,14 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },
     {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Neuvi_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_4.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Neuvi_4.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
     },

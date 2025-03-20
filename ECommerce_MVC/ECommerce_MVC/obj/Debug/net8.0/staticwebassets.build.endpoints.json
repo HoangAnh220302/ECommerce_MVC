@@ -6973,6 +6973,170 @@
       ]
     },
     {
+      "Route": "Hinh/KhachHang/Neuvi_1.jpg",
+      "AssetFile": "Hinh/KhachHang/Neuvi_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:41:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_1.n6jpxdxkh1.jpg",
+      "AssetFile": "Hinh/KhachHang/Neuvi_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:41:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6jpxdxkh1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80="
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/Neuvi_1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_4.8csz5zqi2v.jpg",
+      "AssetFile": "Hinh/KhachHang/Neuvi_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:48:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8csz5zqi2v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0="
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/Neuvi_4.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_4.jpg",
+      "AssetFile": "Hinh/KhachHang/Neuvi_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:48:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0="
+        }
+      ]
+    },
+    {
       "Route": "Hinh/KhachHang/Penguins.elo4vkkvxu.jpg",
       "AssetFile": "Hinh/KhachHang/Penguins.jpg",
       "Selectors": [],

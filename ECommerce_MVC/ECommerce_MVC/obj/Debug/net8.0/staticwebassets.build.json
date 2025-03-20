@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Fy9Mop5ZfaePtNSOuzuAKxb3ZGl4sdknm4RaibHqa2A=",
+  "Hash": "QHXusZ/VWvlfORXEvRkglcnOtQSWUTAUUW3NNhHugQo=",
   "Source": "ECommerce_MVC",
   "BasePath": "_content/ECommerce_MVC",
   "Mode": "Default",
@@ -5769,6 +5769,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\man.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_1.jpg",
+      "SourceId": "ECommerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\",
+      "BasePath": "_content/ECommerce_MVC",
+      "RelativePath": "Hinh/KhachHang/Neuvi_1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n6jpxdxkh1",
+      "Integrity": "X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Neuvi_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_4.jpg",
+      "SourceId": "ECommerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\",
+      "BasePath": "_content/ECommerce_MVC",
+      "RelativePath": "Hinh/KhachHang/Neuvi_4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8csz5zqi2v",
+      "Integrity": "yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Neuvi_4.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
@@ -33151,6 +33193,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-SD6YuraPQEyHRsZANYY1JyaSwlKpdkx1/rkYUtiaqEA="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_1.jpg",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:41:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_1.n6jpxdxkh1.jpg",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:41:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6jpxdxkh1"
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/Neuvi_1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1K9phF2i0RVF80+N7FV3sxIcazvJQ4qDk9r55B5D80="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_4.8csz5zqi2v.jpg",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:48:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8csz5zqi2v"
+        },
+        {
+          "Name": "label",
+          "Value": "Hinh/KhachHang/Neuvi_4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0="
+        }
+      ]
+    },
+    {
+      "Route": "Hinh/KhachHang/Neuvi_4.jpg",
+      "AssetFile": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\ECommerce_MVC\\ECommerce_MVC\\ECommerce_MVC\\wwwroot\\Hinh\\KhachHang\\Neuvi_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 08:48:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yNR7tZk3g8XBt8OozluglOamQQ0qZosyeSYoFP+ybc0="
         }
       ]
     },
